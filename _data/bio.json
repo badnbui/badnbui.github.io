@@ -1,115 +1,119 @@
 {
-  "basics": {
-    "name": "Marcus Bui",
-    "label": "Shidler Undergraduate",
-    "picture": "https://buimarcus.github.io/images/buimarcus.jpg",
-    "email": "buim@hawaii.edu",
-    "phone": "",
-    "website": "https://buimarcus.github.io",
-    "summary": "I am studying for a B.B.A. in Management Information Systems and Marketing in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "96815",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Marcus Bui",
+      "label":"Shidler Undergraduate",
+      "picture":"https://buimarcus.github.io/images/buimarcus.jpg",
+      "email":"buim@hawaii.edu",
+      "phone":"",
+      "website":"https://buimarcus.github.io",
+      "summary":"I am studying for a B.B.A. in Management Information Systems and Marketing in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
+      "location":{
+         "address":"",
+         "postalCode":"96815",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"buimarcus",
+            "url":"http://github.com/buimarcus"
+         },
+         {
+            "network":"linkedin",
+            "username":"Marcus Bui",
+            "url":"https://www.linkedin.com/in/marcus-bui/"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "buimarcus",
-        "url": "http://github.com/buimarcus"
+         "name":"Photography",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "linkedin",
-        "username": "Marcus Bui",
-        "url": "https://www.linkedin.com/in/marcus-bui/"
+         "name":"Technology",
+         "keywords":[
+            
+         ]
       },
-    ]
-  },
-  "interests": [
-    {
-      "name": "Photography",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Technology",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Sports",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Adobe",
-      "level": "",
-      "keywords": [
-        "Lightroom"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems, Marketing (expected Spring, 2020)",
-      "studyType": "B.B.A",
-      "startDate": "2018-08",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Pacific Asian Center for Entrepreneurship",
-      "position": "Marketing and Events Planning Student Assistant",
-      "website": "pace.shidler.hawaii.edu",
-      "startDate": "2018-11-01",
-      "endDate": "Present",
-      "summary": "Assist with social presence, overall marketing, and event planning for PACE",
-      "highlights": [
-        "Capture photos and videos and create marketing material",
-        "Assist with logistical work for each event"
-      ]
-    },
-    {
-      "company": "Honolulu Surf Room",
-      "position": "Sales Associate",
-      "website": "",
-      "startDate": "2017-10-01",
-      "endDate": "2018-06-01",
-      "summary": "",
-      "highlights": [
-        "Provide customer service",
-        "Manage inventory/shipments in and out of the store",
-        "Merchandising products on store floor"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Christ Centered Community Church",
-      "website": "http://c4.church",
-      "position": "Student Leader",
-      "startDate": "2016-06-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Assist youth pastors and leaders with preparation of weekly service",
-        "Manage stage lights and sound board"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
-}
+      {
+         "name":"Sports",
+         "keywords":[
+            
+         ]
+      }
+   ],
+   "skills":[
+      {
+         "name":"Adobe",
+         "level":"",
+         "keywords":[
+            "Photoshop",
+            "Lightroom"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Management Information Systems, Marketing (expected Spring, 2020)",
+         "studyType":"B.B.A",
+         "startDate":"2018-08",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Pacific Asian Center for Entrepreneurship",
+         "position":"Marketing and Events Planning Student Assistant",
+         "website":"pace.shidler.hawaii.edu",
+         "startDate":"2018-11-01",
+         "endDate":"Present",
+         "summary":"Assist with social presence, overall marketing, and event planning for PACE",
+         "highlights":[
+            "Capture photos and videos and create marketing material",
+            "Assist with logistical work for each event"
+         ]
+      },
+      {
+         "company":"Honolulu Surf Room",
+         "position":"Sales Associate",
+         "website":"",
+         "startDate":"2017-10-01",
+         "endDate":"2018-06-01",
+         "summary":"",
+         "highlights":[
+            "Provide customer service",
+            "Manage inventory/shipments in and out of the store",
+            "Merchandising products on store floor"
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Christ Centered Community Church",
+         "website":"http://c4.church",
+         "position":"Student Leader",
+         "startDate":"2016-06-01",
+         "endDate":"Present",
+         "summary":"",
+         "highlights":[
+            "Assist youth pastors and leaders with preparation of weekly service",
+            "Manage stage lights and sound board"
+         ]
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
